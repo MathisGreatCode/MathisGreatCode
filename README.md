@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Python, Blockchain and Smart-contracts
-- 👯 I’m looking to collaborate on web3 projects
+- 🌱 I’m currently learning Python and Web Dev with Django 
+- 👯 I’m available to collaborate on any exiting project
 
 <!--
 **MathisGreatCode/MathisGreatCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
