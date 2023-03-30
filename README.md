@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Python and Web Dev with Django 
-- 👯 I’m available to collaborate on any exiting project
+- 👯 I’m available to collaborate on any exciting project
 
 <!--
 **MathisGreatCode/MathisGreatCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
